@@ -8,6 +8,7 @@ left: 0;
 right: 0;
 margin: auto;
 border: 1px solid #000;
+background-color: aqua;
 z-index: 10;
 }
 
@@ -16,7 +17,7 @@ position: relative;
 }
 
 .barra{
-    background-color: #f1f1f1;
+    background-color: #ff08ff;
     height: 30px;
     padding: 0 10px;
     z-index: 11;
@@ -30,7 +31,7 @@ position: relative;
     top: 0;
     z-index: 12;
 
-    background-color: red;
+    background-color: #000;
     color: #f1f1f1;
 }
 
