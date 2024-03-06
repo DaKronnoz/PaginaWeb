@@ -46,3 +46,16 @@ padding: 0 10px;
 .ventana.open{
     display: block;
 }
+
+.abrir{
+    position: absolute;
+    cursor: pointer;
+    right: 0;
+    left: 0;
+    margin: auto;
+    border: 1px solid #000;
+    height: 30px;
+    width: 60px;
+    top: 300px;
+    z-index:13;
+}
